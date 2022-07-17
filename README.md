@@ -4,4 +4,10 @@ Some description text here to describe my project. The hash key right before 'De
 
 ## A Subheader
 
-Watch tutorial on youtube. Two hash heys indicate that 'A Subheader' is a subheader.
+Watch tutorial on youtube. Two hash heys indicate that 'A Subheader' is subheader text.
+
+## Local Development
+
+1. Open index.html in your browser
+
+2. Some more changes to test here... whoop!
